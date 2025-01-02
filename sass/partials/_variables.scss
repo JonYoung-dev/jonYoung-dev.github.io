@@ -1,6 +1,20 @@
 
-$offwhite: #F5F5F5;
-$offblack: #0E1111;
-$primary: #a40e4cff;
-$secondary: #048ba8ff;
-$tertiary: #f49d37ff;
+$background: #FFF5EA;
+$panel: #FFE3E1;
+$generic: #FFd1D1;
+$primaries: #FF9494;
+
+
+$success: #306B34;
+$failure: #92140C;
+$warning: #F4D06F;
+$analogous: #0075F2;
+ 
+
+
+$night-theme: false;
+
+@if $night-theme {
+   
+
+}
